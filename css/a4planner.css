@@ -1,0 +1,84 @@
+
+body {
+    background-color: #d7dae3;
+}
+
+.footer{
+    text-align: center;
+}
+
+.page-title {
+    text-align: center;
+    font-size: xx-large;
+    color: #8a7886;
+}
+
+.vertical-text {
+	transform: rotate(90deg);
+	transform-origin: left bottom 0;
+    float: left;
+    text-align: center;
+}
+
+.title {
+    text-align: center;
+    vertical-align: middle;
+    display: table-cell;
+    height: 100%;
+    color: white;
+    font-size: large;
+    font-weight: strong;
+}
+
+.content {
+    color: white;
+    font-size: small;
+}
+
+#a4 {
+    _float: left;
+    position: relative;
+    left: 20px;
+}
+
+.cell {
+    position: absolute;
+    display: table;
+}
+
+#a4, .cell {
+    background-color: #6c6a75;
+    background-color: #8a7886;
+    border: 1px;
+    border-style: solid;
+    border-color: #8ed3b7;
+}
+
+/* Score */
+#0_0 {
+    
+}
+
+/* Name */
+#0_1 {
+    
+}
+
+/* What */
+#0_2 {
+}
+
+/* Retrospective */
+#1_0 {
+    
+}
+
+/* Why */
+#1_1 {
+    
+}
+
+/* How */
+#1_2 {
+    
+}
